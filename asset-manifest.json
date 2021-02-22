@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/king-james/static/css/main.3b1581c8.chunk.css",
+    "main.css": "/king-james/static/css/main.1ae1de47.chunk.css",
     "main.js": "/king-james/static/js/main.740b9e64.chunk.js",
     "main.js.map": "/king-james/static/js/main.740b9e64.chunk.js.map",
     "runtime-main.js": "/king-james/static/js/runtime-main.d5b87cba.js",
@@ -12,7 +12,7 @@
     "static/js/3.e1fd450b.chunk.js.map": "/king-james/static/js/3.e1fd450b.chunk.js.map",
     "index.html": "/king-james/index.html",
     "static/css/2.6c0f60ba.chunk.css.map": "/king-james/static/css/2.6c0f60ba.chunk.css.map",
-    "static/css/main.3b1581c8.chunk.css.map": "/king-james/static/css/main.3b1581c8.chunk.css.map",
+    "static/css/main.1ae1de47.chunk.css.map": "/king-james/static/css/main.1ae1de47.chunk.css.map",
     "static/js/2.68e8723d.chunk.js.LICENSE.txt": "/king-james/static/js/2.68e8723d.chunk.js.LICENSE.txt",
     "static/media/output-onlinepngtools.6ea2fe29.png": "/king-james/static/media/output-onlinepngtools.6ea2fe29.png",
     "static/media/sanlam.52811dd3.png": "/king-james/static/media/sanlam.52811dd3.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.d5b87cba.js",
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.68e8723d.chunk.js",
-    "static/css/main.3b1581c8.chunk.css",
+    "static/css/main.1ae1de47.chunk.css",
     "static/js/main.740b9e64.chunk.js"
   ]
 }
